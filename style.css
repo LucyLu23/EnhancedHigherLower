@@ -1,24 +1,19 @@
-
-h1{
+h1 {
     color: blue;
-
 }
-#message2{
+#message2 {
     background-color: rgb(234, 186, 235);
     width: max-content;
-    
 }
 
-#enter:hover{
+#enter:hover {
     background-color: aquamarine;
     text-transform: capitalize;
-
 }
 
-
-
-#message{
-    background-image: url(../photo.PNG);
+#message {
+    /*  background-image: url(../photo.PNG); */
+    background-color: rgb(122, 207, 116);
     background-size: auto;
     margin: 10px 20px;
     font-size: larger;

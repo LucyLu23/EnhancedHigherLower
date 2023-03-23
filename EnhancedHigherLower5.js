@@ -41,9 +41,7 @@ while (!rightNum) {
                     guess1 > randomNum ? ' a lower number' : ' a higher number'
                 message.innerHTML = ` try guessing ${hint}`
             } else {
-
                 message.innerHTML = `Congratulations! you got it right ${guess1}, and it took you ${count.length} tries and your guesses were ${count}. `
-                
             }
         } else {
             return

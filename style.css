@@ -1,0 +1,28 @@
+
+h1{
+    color: blue;
+
+}
+#message2{
+    background-color: rgb(234, 186, 235);
+    width: max-content;
+    
+}
+
+#enter:hover{
+    background-color: aquamarine;
+    text-transform: capitalize;
+
+}
+
+
+
+#message{
+    background-image: url(../images/photo.PNG);
+    background-size: auto;
+    margin: 10px 20px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
